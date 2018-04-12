@@ -1,0 +1,3 @@
+smach /opt/ros/kinetic/share/smach
+smach_msgs /opt/ros/kinetic/share/smach_msgs
+smach_ros /opt/ros/kinetic/share/smach_ros
